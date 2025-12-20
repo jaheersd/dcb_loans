@@ -17,4 +17,8 @@ z=x+y;
 
 >>>>>>> Stashed changes
 int i=10;
+<<<<<<< HEAD
 int age=16;
+=======
+int k=30;
+>>>>>>> e296de0594373eea0068a357b52a19049a66b3b1
