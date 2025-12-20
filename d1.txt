@@ -8,6 +8,8 @@ c=a+b;
 int age=20;
 int j=90;
 =======
+
+@RestController
 //story 121 
 x=9;
 y=8;
