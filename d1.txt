@@ -3,6 +3,14 @@ a=1;
 b=2;
 c=a+b;
 
+<<<<<<< Updated upstream
 //changes for 131
 int age=20;
 int j=90;
+=======
+//story 121 
+x=9;
+y=8;
+z=x+y;
+
+>>>>>>> Stashed changes
