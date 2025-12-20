@@ -17,3 +17,4 @@ z=x+y;
 
 >>>>>>> Stashed changes
 int i=10;
+int k=30;
