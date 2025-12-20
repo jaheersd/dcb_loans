@@ -3,3 +3,6 @@ a=1;
 b=2;
 c=a+b;
 
+//changes for 131
+int age=20;
+int j=90;
